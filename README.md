@@ -1,4 +1,10 @@
-## Hi there 👋
+<big><pre>**\> whoami**
+DevOps Engineer and Software Architect.
+Open source enthusiast.
+Privacy matters.
+
+**\> echo**
+xxx</pre></big>
 
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wallago&show_icons=true&theme=transparent&hide_border=true" />
@@ -7,17 +13,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallago&hide=jupyter%20notebook&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
 </span>
 
-<!--
-**wallago/wallago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### profile views counter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://profile-counter.glitch.me/wallago/count.svg">
