@@ -15,7 +15,7 @@ jobs:
       - name: Generate README.md
         uses: orhun/profile-readme-stats@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.USER_TOKEN }}
           lifetimeStreak: true
       - name: Update README.md
         shell: bash
