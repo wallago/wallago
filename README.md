@@ -1,5 +1,5 @@
-<!-- <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only"> -->
-<!-- <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only"> -->
+<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo.png#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo.png#gh-light-mode-only">
 
 ### Hey!
 
@@ -7,7 +7,7 @@
 
 🦀 An open-source developer with a deep passion for Rust, Nix and terminals.
 
-[![views](https://komarev.com/ghpvc/?username=wallago&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/wallago) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
+[![views](https://komarev.com/ghpvc/?username=wallago&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/wallago)
 
 <br>
 <br>
@@ -16,7 +16,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **7** years ago and have since pushed **3426** commits, opened **62** issues, submitted **56** pull requests, and earned **122** stars across **25** personal projects, with contributions to **16** public repositories.
+I joined GitHub **7** years ago and have since pushed **3427** commits, opened **62** issues, submitted **56** pull requests, and earned **122** stars across **25** personal projects, with contributions to **16** public repositories.
 
 I'm currently on a **6**-day commit streak.
 
