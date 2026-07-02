@@ -5,6 +5,7 @@ OUT = "/home/wallago/Personal-Projects/wallago/assets/spin/frame_"
 FRAMES = 120  # frames for a full 360° turn
 THICKNESS = 0.15  # card depth (world units); bigger = chunkier edge
 RES = 250  # output square resolution
+CAM_DIST = 8.0  # camera distance on -Y; larger = more zoomed out (smaller card)
 
 # --- clean scene -----------------------------------------------------------
 bpy.ops.wm.read_factory_settings(use_empty=True)
@@ -61,7 +62,7 @@ card.rotation_euler = (0, 0, math.radians(360))
 card.keyframe_insert("rotation_euler", frame=FRAMES + 1)
 
 # --- camera ----------------------------------------------------------------
-bpy.ops.object.camera_add(location=(0, -4.5, 0), rotation=(math.radians(90), 0, 0))
+bpy.ops.object.camera_add(location=(0, -CAM_DIST, 0), rotation=(math.radians(90), 0, 0))
 scene.camera = bpy.context.active_object
 
 # --- render settings -------------------------------------------------------
