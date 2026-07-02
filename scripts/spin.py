@@ -5,7 +5,7 @@ OUT = "/home/wallago/Personal-Projects/wallago/assets/spin/frame_"
 FRAMES = 120  # frames for a full 360° turn
 THICKNESS = 0.15  # card depth (world units); bigger = chunkier edge
 RES = 250  # output square resolution
-CAM_DIST = 8.0  # camera distance on -Y; larger = more zoomed out (smaller card)
+CAM_DIST = 5.0  # camera distance on -Y; larger = more zoomed out (smaller card)
 
 # --- clean scene -----------------------------------------------------------
 bpy.ops.wm.read_factory_settings(use_empty=True)
