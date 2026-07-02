@@ -1,5 +1,5 @@
-<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo.png#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo.png#gh-light-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo-spin.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo-spin.gif#gh-light-mode-only">
 
 ### Hey!
 
@@ -16,9 +16,9 @@
 
 #### ⚡ Stats
 
-I joined GitHub **7** years ago and have since pushed **3427** commits, opened **62** issues, submitted **56** pull requests, and earned **122** stars across **25** personal projects, with contributions to **16** public repositories.
+I joined GitHub **7** years ago and have since pushed **3430** commits, opened **62** issues, submitted **56** pull requests, and earned **122** stars across **25** personal projects, with contributions to **16** public repositories.
 
-I'm currently on a **6**-day commit streak.
+I'm currently on a **7**-day commit streak.
 
 #### 🌀 Projects
 
