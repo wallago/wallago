@@ -3,8 +3,8 @@ import bpy, math
 IMG = "/home/wallago/Personal-Projects/wallago/assets/wallago.png"
 OUT = "/home/wallago/Personal-Projects/wallago/assets/spin/frame_"
 FRAMES = 120  # frames for a full 360° turn
-THICKNESS = 0.06  # card depth (world units); bigger = chunkier edge
-RES = 500  # output square resolution
+THICKNESS = 0.15  # card depth (world units); bigger = chunkier edge
+RES = 250  # output square resolution
 
 # --- clean scene -----------------------------------------------------------
 bpy.ops.wm.read_factory_settings(use_empty=True)

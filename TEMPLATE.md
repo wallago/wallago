@@ -1,5 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo-spin.gif#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/refs/heads/main/assets/walalgo-spin.gif#gh-light-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/wallago/wallago/main/assets/wallago-spin.gif">
 
 ### Hey!
 
