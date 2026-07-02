@@ -38,6 +38,17 @@ bsdf.inputs["Emission Strength"].default_value = 1.0
 bsdf.inputs["Base Color"].default_value = (0, 0, 0, 1)
 card.data.materials.append(mat)
 
+# --- purple material for the extruded border (rim) -------------------------
+edge = bpy.data.materials.new("edge")
+edge.use_nodes = True
+ebsdf = edge.node_tree.nodes["Principled BSDF"]
+ebsdf.inputs["Emission Color"].default_value = (0.6, 0.2, 1.0, 1)  # purple
+ebsdf.inputs["Emission Strength"].default_value = 1.0
+ebsdf.inputs["Base Color"].default_value = (0, 0, 0, 1)
+card.data.materials.append(edge)  # becomes material slot 1
+
+sol.material_offset_rim = 1
+
 # --- turntable animation (linear, clean spin about vertical Z) -------------
 # set linear interp as the default BEFORE inserting keys (no fcurve poking)
 bpy.context.preferences.edit.keyframe_new_interpolation_type = "LINEAR"
