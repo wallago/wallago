@@ -61,7 +61,7 @@ card.rotation_euler = (0, 0, math.radians(360))
 card.keyframe_insert("rotation_euler", frame=FRAMES + 1)
 
 # --- camera ----------------------------------------------------------------
-bpy.ops.object.camera_add(location=(0, -3.2, 0), rotation=(math.radians(90), 0, 0))
+bpy.ops.object.camera_add(location=(0, -4.5, 0), rotation=(math.radians(90), 0, 0))
 scene.camera = bpy.context.active_object
 
 # --- render settings -------------------------------------------------------
