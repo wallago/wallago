@@ -1,0 +1,6 @@
+# configuration for https://github.com/lycheeverse/lychee
+
+# The direnv cache holds Markdown that isn't ours.
+exclude_path = [
+  ".direnv",
+]

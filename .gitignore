@@ -1,1 +1,11 @@
+# ── Generated frames ─────────────────────────────────────────
+# Rendered by `just render` and stitched into the gif; never committed.
 assets/spin/
+
+# ── Nix ──────────────────────────────────────────────────────
+# Build result symlinks (result, result-bin, result-1, …)
+/result
+/result-*
+
+# ── Local development environment ────────────────────────────
+.direnv/
